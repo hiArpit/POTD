@@ -1,0 +1,22 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.out
+
+# Ignore CPH problem files
+.cph/
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore VSCode config (if any)
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore Windows junk
+Thumbs.db
